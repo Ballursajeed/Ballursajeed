@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello Open Source:
 🚀 Hello! I'm a passionate full-stack developer with a focus on creating interactive and visually stunning web experiences. Specializing in the JavaScript, TypeScript and MERN (MongoDB, Express.js, React.js, Node.js) stack, I bring a holistic approach to web development. Proficient in both frontend (React.js) and backend (Node.js) , I craft robust, scalable, and secure applications that deliver seamless user experiences.<br>
 
 - 🔭 I’m currently working on [E-Commerce Application](https://e-commerce-app-six-plum.vercel.app/)
