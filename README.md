@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sajeedballuru@gmail.com**
 
-- 📄 Know about my experiences [https://sajeedballuru.vercel.app/RESUME-6.pdf](https://sajeedballuru.vercel.app/RESUME-6.pdf)
+- 📄 Know about my experiences [https://sajeedballuru.vercel.app/RESUME-6.pdf](https://sajeedballuru.vercel.app/RESUME.pdf)
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://sajeedballuru.vercel.app/) 
